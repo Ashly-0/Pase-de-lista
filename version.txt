@@ -1,1 +1,6 @@
-Primera versión del código
+# Proyecto: Pase de Lista
+# Archivo: version.txt
+# Descripción: Primera versión del código de prueba
+
+print("Hola mundo desde el proyecto Pase de Lista")
+print("Esta es la primera versión del código subida a GitHub")
